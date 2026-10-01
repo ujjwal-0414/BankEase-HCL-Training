@@ -1,0 +1,2 @@
+-- BankEase uses DataInitializer for roles, demo admin and investment products.
+-- Customer accounts should be created through the secured API so ownership and audit rules are applied.
