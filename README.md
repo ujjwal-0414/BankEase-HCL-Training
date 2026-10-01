@@ -1,13 +1,13 @@
 # BankEase — Full-Stack Digital Banking Application
 
-**Owner:** Varun Dixit  
+**Owner:** Ujjwal Upadhyay  
 **Backend:** Java 21, Spring Boot 4.1.0, Spring Security, JWT, JPA/Hibernate, MySQL  
 **Frontend:** Angular 20, TypeScript, Angular Router, HttpClient, standalone components
 
 ## Project structure
 
 ```text
-BankEase_Varun_Dixit_FullStack/
+BankEase_Ujjwal_Upadhyay_FullStack/
 ├── backend/       # Existing tested Spring Boot + MySQL backend
 └── frontend/      # Angular banking dashboard
 ```
